@@ -23,8 +23,10 @@ asset from a release, not the "Source code" archives GitHub adds automatically.
 - Small attribute boosts from training, sponsors and honours, written only to your
   own player, never more than ±3 at a time and read back afterwards
 - Reads your save and never edits it; Football Life still writes it itself
-- In English, Spanish and Portuguese (Settings > Appearance > Language). Stories
-  are in English for now.
+- In English, Spanish, Portuguese, French, Italian, Russian, Indonesian, Turkish
+  and Vietnamese (Settings > Language). Stories are in English for now.
+- Player faces from the game in squad rows, rival cards and messages, or a PNG
+  of your own
 
 ## Before you install
 
