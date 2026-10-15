@@ -30,8 +30,9 @@ asset from a release, not the "Source code" archives GitHub adds automatically.
 
 ## Before you install
 
-- Football Life 2026. Attribute boosts and reading your OVR need version 1.4;
-  other versions still get everything built from your save.
+- Football Life 2026. Reading your OVR works on any version; attribute boosts are
+  written straight away on version 1.4, and on other versions once your player's
+  record in the game matches your save.
 - Sider, with the game started through it
 - A Become a Legend career, or one you are about to start
 - Windows 10 or 11. Touchline is not needed.
