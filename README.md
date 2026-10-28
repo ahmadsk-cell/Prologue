@@ -18,13 +18,13 @@ asset from a release, not the "Source code" archives GitHub adds automatically.
 - Messages from your manager, agent, teammates, family and coaches, and decisions
   waiting for you
 - The press, sponsors and the national team, reacting to how your career goes
-- Club and national rankings, the game's individual awards, and every honour your
-  player wins
+- Club and national rankings, the game's individual awards, worldwide top scorers
+  and assist providers across every competition, and every honour your player wins
 - Small attribute boosts from training, sponsors and honours, written only to your
   own player, never more than ±3 at a time and read back afterwards
 - Reads your save and never edits it; Football Life still writes it itself
-- In English, Spanish, Portuguese, French, Italian, Russian, Indonesian, Turkish
-  and Vietnamese (Settings > Language), stories and messages included
+- In English, Spanish, Portuguese, French, Italian, Russian, Indonesian, Turkish,
+  Vietnamese, Arabic and Thai (Settings > Language), stories and messages included
 - Player faces from the game in squad rows, rival cards and messages, or a PNG
   of your own
 
