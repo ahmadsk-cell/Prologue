@@ -22,7 +22,8 @@ asset from a release, not the "Source code" archives GitHub adds automatically.
   and assist providers across every competition, and every honour your player wins
 - Small attribute boosts from training, sponsors and honours, written only to your
   own player, never more than ±3 at a time and read back afterwards
-- Reads your save and never edits it; Football Life still writes it itself
+- Reads your save and writes to it only for a loan, when you accept one and when you
+  come home, after backing it up and with Football Life closed
 - In English, Spanish, Portuguese, French, Italian, Russian, Indonesian, Turkish,
   Vietnamese, Arabic and Thai (Settings > Language), stories and messages included
 - Player faces from the game in squad rows, rival cards and messages, or a PNG
@@ -35,7 +36,7 @@ asset from a release, not the "Source code" archives GitHub adds automatically.
   record in the game matches your save.
 - Sider, with the game started through it
 - A Become a Legend career, or one you are about to start
-- Windows 10 or 11. Touchline is not needed.
+- Windows 10 or 11. Touchline is only needed for crowd attendance.
 
 ## Install
 
