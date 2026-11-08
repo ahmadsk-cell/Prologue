@@ -2,7 +2,7 @@
 
 **Before the legend, there was a Prologue.**
 
-A free Become a Legend companion for SP Football Life 2026. You create your
+A free Become a Legend companion for SP Football Life 2026 and 2027. You create your
 player — background, family, ambitions — and Prologue reads your save and tells
 the career around them.
 
@@ -31,9 +31,9 @@ asset from a release, not the "Source code" archives GitHub adds automatically.
 
 ## Before you install
 
-- Football Life 2026. Reading your OVR works on any version; attribute boosts are
-  written straight away on version 1.4, and on other versions once your player's
-  record in the game matches your save.
+- Football Life 2026 or 2027. Reading your OVR works on any version; attribute boosts
+  are written straight away on FL26 version 1.4 and on FL27, and on other versions once
+  your player's record in the game matches your save.
 - Sider, with the game started through it
 - A Become a Legend career, or one you are about to start
 - Windows 10 or 11. Touchline is only needed for crowd attendance.
