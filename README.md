@@ -25,9 +25,11 @@ asset from a release, not the "Source code" archives GitHub adds automatically.
   and assist providers across every competition, and every honour your player wins
 - Small attribute boosts from training, sponsors and honours, written only to your
   own player, never more than ±3 at a time and read back afterwards
-- Momentum Shift: each month your overall rises or falls for the month ahead on how
-  much you played and how well, and a season above yourself keeps a point
-  (Settings > Momentum Shift)
+- Momentum Shift, as in Touchline: each month every player's overall, yours included,
+  rises or falls for the month ahead on how much he played and how well, and a season
+  above himself keeps a point (Settings > Momentum Shift)
+- Plays well with a controller, handhelds included, and BACK TO GAME puts Football Life
+  in front
 - Your overall worked out from your attributes in the running game, as Football Life
   works it out
 - Reads your save and writes to it only for a loan, when you accept one and when you
